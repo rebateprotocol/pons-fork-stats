@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-05T23:03:14.679Z",
+  "updated": "2026-09-05T23:13:00.962Z",
   "totals": {
     "agenticBuybackWei": "669294951725197205",
     "cashbackDistributedWei": "382342997603432737",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2480.99,
-    "updated": "2026-09-05T23:03:14.678Z",
+    "ethUsd": 2479.5,
+    "updated": "2026-09-05T23:13:00.961Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.267,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 40476,
+    "volume24hUsd": 40452,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3380
+      "mcapUsd": 3370
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.12,
-      "mcapUsd": 16200
+      "mcapUsd": 15900
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.36,
-      "mcapUsd": 5270
+      "mcapUsd": 5260
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -229,7 +229,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3340
+      "mcapUsd": 3330
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
@@ -492,6 +492,17 @@
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
       "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3330
+    },
+    "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
+      "name": "Millions Coded",
+      "symbol": "ADHD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
+      "mode": "charity",
       "burnedPct": 0,
       "mcapUsd": 3330
     },
