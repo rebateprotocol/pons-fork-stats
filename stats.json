@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-05T20:02:45.957Z",
+  "updated": "2026-09-05T20:13:12.950Z",
   "totals": {
     "agenticBuybackWei": "669294951725197205",
-    "cashbackDistributedWei": "379238418327821915",
+    "cashbackDistributedWei": "381198285353432737",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2477.75,
-    "updated": "2026-09-05T20:02:45.956Z",
+    "ethUsd": 2477.29,
+    "updated": "2026-09-05T20:13:12.949Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.2609393697476374",
+    "feesClaimedEth": "1.2631169997760938",
     "buybackBurnEth": "0.6692949517251972",
-    "paidHoldersEth": "0.3792384183278219",
+    "paidHoldersEth": "0.38119828535343275",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "12604533.973903283",
-    "forkSupplyPct": 1.2604,
+    "forkInTreasury": "12645998.282790603",
+    "forkSupplyPct": 1.2645,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 44425,
+    "volume24hUsd": 40147,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -92,7 +92,7 @@
       "mcapUsd": 3700
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "128117701369034850",
+      "distributedWei": "130077568394645672",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -100,8 +100,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 4.1,
-      "mcapUsd": 20600
+      "burnedPct": 4.11,
+      "mcapUsd": 21200
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -197,6 +197,17 @@
       "mode": "agentic",
       "burnedPct": 12.75,
       "mcapUsd": 5560
+    },
+    "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
+      "name": "PonsNation",
+      "symbol": "PONSNATION",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x420dc8840d4b05F4Ad21e92d50D63752B64102f2",
+      "logo": "https://ipfs.io/ipfs/bafkreibg5bco4ltcxeum7a3xtgihptpuvnitelhxuhlnvx5ngncx5m4x7e",
+      "mode": "agentic",
+      "burnedPct": 0.84,
+      "mcapUsd": 3360
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
       "name": "roots",
