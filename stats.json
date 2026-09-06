@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-06T13:53:56.530Z",
+  "updated": "2026-09-06T14:05:57.205Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2493.93,
-    "updated": "2026-09-06T13:53:56.529Z",
+    "ethUsd": 2494.36,
+    "updated": "2026-09-06T14:05:57.204Z",
     "tokens": {
-      "total": 39,
+      "total": 38,
       "agentic": 24,
       "cashback": 12,
-      "charity": 3
+      "charity": 2
     },
     "feesClaimedEth": "1.266606130988903",
     "buybackBurnEth": "0.6700513767803206",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 41635,
+    "volume24hUsd": 41642,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -176,16 +176,7 @@
           "ethWei": "55020845047913817",
           "tok": "64593942354923872958063175"
         }
-      },
-      "name": "St Jude Childrens Fund",
-      "symbol": "STJUDE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC862AF7382693eccA15095a8aC9eb246A91ab806",
-      "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 3910
+      }
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -218,7 +209,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5420
+      "mcapUsd": 5430
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -449,7 +440,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3350
+      "mcapUsd": 3360
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
