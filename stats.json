@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T06:12:50.750Z",
+  "updated": "2026-09-06T06:33:53.417Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2510.58,
-    "updated": "2026-09-06T06:12:50.749Z",
+    "ethUsd": 2506.17,
+    "updated": "2026-09-06T06:33:53.417Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 2614,
+    "volume24hUsd": 41598,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3420
+      "mcapUsd": 3410
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3620
+      "mcapUsd": 3610
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3440
+      "mcapUsd": 3430
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3940
+      "mcapUsd": 3930
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.75,
-      "mcapUsd": 5640
+      "mcapUsd": 5630
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5670
+      "mcapUsd": 5660
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -229,7 +229,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3380
+      "mcapUsd": 3370
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
@@ -240,7 +240,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiddfufyduxicaw24aq6tpaxt7uawtnyw3lijfrm44muq4p3szqgxm",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
       "name": "Just Burn It",
@@ -317,7 +317,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
@@ -394,18 +394,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3370
-    },
-    "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
-      "name": "GigaGrok",
-      "symbol": "GIGAGROK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreif6vce6hu5yvl7okvcpnkv5z3hxaldcdixrusp63obdcupwxp5oru",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0xcca7680ad911005d4a9969960b14da054c399cf7": {
       "name": "The Nietzschean Elephant",
@@ -449,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3380
+      "mcapUsd": 3370
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
