@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T14:53:46.836Z",
+  "updated": "2026-09-06T15:04:41.004Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2482.39,
-    "updated": "2026-09-06T14:53:46.835Z",
+    "ethUsd": 2479.79,
+    "updated": "2026-09-06T15:04:41.004Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 41293,
+    "volume24hUsd": 41250,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -439,6 +439,17 @@
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3330
+    },
+    "0xd9e9eb855295a281df65c567bdaed369f673210d": {
+      "name": "Built Different Final Boss",
+      "symbol": "DARRIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
+      "mode": "agentic",
+      "burnedPct": 0.1,
+      "mcapUsd": 3340
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
