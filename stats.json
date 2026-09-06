@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T12:33:15.549Z",
+  "updated": "2026-09-06T13:03:49.836Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2502.28,
-    "updated": "2026-09-06T12:33:15.549Z",
+    "ethUsd": 2500.33,
+    "updated": "2026-09-06T13:03:49.835Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 42287,
+    "volume24hUsd": 41720,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3610
+      "mcapUsd": 3600
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.75,
-      "mcapUsd": 5620
+      "mcapUsd": 5610
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5660
+      "mcapUsd": 5440
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -407,17 +407,6 @@
       "burnedPct": 0,
       "mcapUsd": 3360
     },
-    "0xcca7680ad911005d4a9969960b14da054c399cf7": {
-      "name": "The Nietzschean Elephant",
-      "symbol": "HERCULES",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3360
-    },
     "0xae5f1969410555a381c39d772e969aa049e0d627": {
       "name": "Wake Up",
       "symbol": "COMA",
@@ -449,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
