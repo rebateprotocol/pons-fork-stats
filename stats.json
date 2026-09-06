@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T04:53:17.013Z",
+  "updated": "2026-09-06T05:03:33.437Z",
   "totals": {
     "agenticBuybackWei": "669294951725197205",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2504.47,
-    "updated": "2026-09-06T04:53:17.012Z",
+    "ethUsd": 2504.11,
+    "updated": "2026-09-06T05:03:33.436Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2696,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 40494,
+    "volume24hUsd": 40488,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -438,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3360
     },
     "0xd9e9eb855295a281df65c567bdaed369f673210d": {
       "name": "Built Different Final Boss",
@@ -492,6 +492,17 @@
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
       "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
+      "name": "Millions Coded",
+      "symbol": "ADHD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
+      "mode": "charity",
       "burnedPct": 0,
       "mcapUsd": 3360
     },
