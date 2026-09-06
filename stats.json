@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T13:33:16.588Z",
+  "updated": "2026-09-06T13:43:20.980Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2491.71,
-    "updated": "2026-09-06T13:33:16.588Z",
+    "ethUsd": 2492.65,
+    "updated": "2026-09-06T13:43:20.979Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 41576,
+    "volume24hUsd": 41592,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -104,7 +104,16 @@
       "mcapUsd": 15100
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000"
+      "distributedWei": "311850000000000",
+      "name": "PonSuperCycle",
+      "symbol": "PSC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3350
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "126282213119773703",
@@ -158,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3420
+      "mcapUsd": 3410
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -242,17 +251,6 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
-      "mcapUsd": 3350
-    },
-    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "name": "Valueless Coin",
-      "symbol": "VALUELESS",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
-      "mode": "agentic",
-      "burnedPct": 0,
       "mcapUsd": 3350
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
@@ -464,13 +462,13 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
-    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
-      "name": "Ponzi Coin",
-      "symbol": "PONZICOIN",
+    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
+      "name": "Tap and Hold",
+      "symbol": "TAPANDHOLD",
       "decimals": 18,
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
+      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3350
