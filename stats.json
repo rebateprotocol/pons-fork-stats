@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-06T19:24:20.758Z",
+  "updated": "2026-09-06T19:33:26.654Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2491.46,
-    "updated": "2026-09-06T19:24:20.757Z",
+    "ethUsd": 2491.47,
+    "updated": "2026-09-06T19:33:26.653Z",
     "tokens": {
-      "total": 39,
-      "agentic": 24,
+      "total": 38,
+      "agentic": 23,
       "cashback": 12,
       "charity": 3
     },
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 616,
+    "volume24hUsd": 8366,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -53,7 +53,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.16,
-      "mcapUsd": 3360
+      "mcapUsd": 3350
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
@@ -383,7 +383,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
-      "mcapUsd": 3350
+      "mcapUsd": 3340
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
       "name": "kiwi cat",
