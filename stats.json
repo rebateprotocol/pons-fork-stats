@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-06T17:43:07.662Z",
+  "updated": "2026-09-06T19:05:06.345Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2492.62,
-    "updated": "2026-09-06T17:43:07.661Z",
+    "ethUsd": 2494.2,
+    "updated": "2026-09-06T19:05:06.345Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 19730,
+    "volume24hUsd": 8462,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.18,
-      "mcapUsd": 11700
+      "mcapUsd": 11600
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -308,17 +308,6 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
-    "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
-      "name": "Strawberina",
-      "symbol": "STRAWB",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3350
-    },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
       "symbol": "1CAT",
@@ -449,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3350
+      "mcapUsd": 3360
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
