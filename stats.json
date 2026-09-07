@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T21:34:21.972Z",
+  "updated": "2026-09-07T21:44:01.260Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "387601118319157104",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2492.84,
-    "updated": "2026-09-07T21:34:21.971Z",
+    "ethUsd": 2492.3,
+    "updated": "2026-09-07T21:44:01.260Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -89,7 +89,7 @@
       "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
       "mode": "cashback",
       "burnedPct": 1.07,
-      "mcapUsd": 3730
+      "mcapUsd": 3720
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "136480401360370039",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.34,
-      "mcapUsd": 8500
+      "mcapUsd": 8490
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -218,7 +218,18 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5360
+      "mcapUsd": 5350
+    },
+    "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
+      "name": "PonFi",
+      "symbol": "PONFI",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3350
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
@@ -341,6 +352,17 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
+    "0xe483592428a4ec9ea2ef2211cd592b69a3f541c1": {
+      "name": "CateCoin",
+      "symbol": "CATE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifunb4jwyestgelovlf5uwahi7mxm7mqlwc3ef376bbth4ivoouuq",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3350
+    },
     "0xdc3ac07dc7586b9971fc858c90d48334e91f9bd2": {
       "name": "Diet Coke",
       "symbol": "DIETCOKE",
@@ -361,7 +383,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
-      "mcapUsd": 3350
+      "mcapUsd": 0
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
       "name": "kiwi cat",
