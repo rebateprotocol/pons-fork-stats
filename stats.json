@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T00:42:54.475Z",
+  "updated": "2026-09-07T00:52:46.185Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2513.88,
-    "updated": "2026-09-07T00:42:54.474Z",
+    "ethUsd": 0,
+    "updated": "2026-09-07T00:52:46.184Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 5336,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3450
+      "mcapUsd": 3440
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.75,
-      "mcapUsd": 5650
+      "mcapUsd": 5640
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -251,6 +251,17 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
+      "mcapUsd": 3380
+    },
+    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
+      "name": "Valueless Coin",
+      "symbol": "VALUELESS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
+      "mode": "agentic",
+      "burnedPct": 0,
       "mcapUsd": 3380
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
@@ -383,7 +394,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3380
+      "mcapUsd": 3370
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
       "name": "GigaGrok",
@@ -405,7 +416,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3380
     },
     "0xae5f1969410555a381c39d772e969aa049e0d627": {
       "name": "Wake Up",
