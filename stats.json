@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T21:14:34.210Z",
+  "updated": "2026-09-07T21:23:54.338Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "387601118319157104",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2491.89,
-    "updated": "2026-09-07T21:14:34.210Z",
+    "ethUsd": 2494.24,
+    "updated": "2026-09-07T21:23:54.338Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2797,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 674,
+    "volume24hUsd": 675,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -352,17 +352,6 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
-    "0xe483592428a4ec9ea2ef2211cd592b69a3f541c1": {
-      "name": "CateCoin",
-      "symbol": "CATE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeifunb4jwyestgelovlf5uwahi7mxm7mqlwc3ef376bbth4ivoouuq",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3350
-    },
     "0xdc3ac07dc7586b9971fc858c90d48334e91f9bd2": {
       "name": "Diet Coke",
       "symbol": "DIETCOKE",
@@ -372,6 +361,17 @@
       "logo": "https://ipfs.io/ipfs/bafkreidahl6yqzipjwzzp22hwv4lcoj4wuenyagzkgxinrllqo3hluirdu",
       "mode": "agentic",
       "burnedPct": 0,
+      "mcapUsd": 3350
+    },
+    "0x2882f41c59099f771f1722f13b964345abad85d6": {
+      "name": "Rickification",
+      "symbol": "RICKIFY",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
+      "mode": "agentic",
+      "burnedPct": 0.02,
       "mcapUsd": 3350
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
@@ -438,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3350
+      "mcapUsd": 3360
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
