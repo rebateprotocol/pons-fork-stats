@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T21:02:52.752Z",
+  "updated": "2026-09-07T21:14:34.210Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "387601118319157104",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2494.01,
-    "updated": "2026-09-07T21:02:52.751Z",
+    "ethUsd": 2491.89,
+    "updated": "2026-09-07T21:14:34.210Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2797,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 1300,
+    "volume24hUsd": 674,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -374,17 +374,6 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
-    "0x2882f41c59099f771f1722f13b964345abad85d6": {
-      "name": "Rickification",
-      "symbol": "RICKIFY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
-      "mode": "agentic",
-      "burnedPct": 0.02,
-      "mcapUsd": 3350
-    },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
       "name": "kiwi cat",
       "symbol": "kiwicat",
@@ -449,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3360
+      "mcapUsd": 3350
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
