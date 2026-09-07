@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T05:33:07.339Z",
+  "updated": "2026-09-07T05:43:39.675Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2511.95,
-    "updated": "2026-09-07T05:33:07.338Z",
+    "ethUsd": 2510.99,
+    "updated": "2026-09-07T05:43:39.674Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 3278,
+    "volume24hUsd": 3275,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -263,6 +263,17 @@
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3370
+    },
+    "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
+      "name": "ameritard",
+      "symbol": "AMERITARD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3380
     },
     "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
       "name": "Boring Coin",
