@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-07T18:13:32.601Z",
+  "updated": "2026-09-07T18:23:51.312Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2493.55,
-    "updated": "2026-09-07T18:13:32.600Z",
+    "ethUsd": 2494.03,
+    "updated": "2026-09-07T18:23:51.312Z",
     "tokens": {
-      "total": 38,
-      "agentic": 23,
+      "total": 39,
+      "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
@@ -125,7 +125,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 2.38,
-      "mcapUsd": 12900
+      "mcapUsd": 12800
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "4636133553854282",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3500
+      "mcapUsd": 3490
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -449,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3360
+      "mcapUsd": 3350
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
