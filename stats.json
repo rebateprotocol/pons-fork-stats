@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T00:32:57.617Z",
+  "updated": "2026-09-07T00:42:54.475Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2516.65,
-    "updated": "2026-09-07T00:32:57.616Z",
+    "ethUsd": 2513.88,
+    "updated": "2026-09-07T00:42:54.474Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 5341,
+    "volume24hUsd": 5336,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.18,
-      "mcapUsd": 9450
+      "mcapUsd": 9440
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5410
+      "mcapUsd": 5400
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -251,17 +251,6 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
-      "mcapUsd": 3380
-    },
-    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "name": "Valueless Coin",
-      "symbol": "VALUELESS",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
-      "mode": "agentic",
-      "burnedPct": 0,
       "mcapUsd": 3380
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
@@ -416,7 +405,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3380
+      "mcapUsd": 0
     },
     "0xae5f1969410555a381c39d772e969aa049e0d627": {
       "name": "Wake Up",
@@ -469,6 +458,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3380
+    },
+    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
+      "name": "Tap and Hold",
+      "symbol": "TAPANDHOLD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3380
