@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T04:13:12.878Z",
+  "updated": "2026-09-07T04:24:07.322Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "383582078389837611",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 0,
-    "updated": "2026-09-07T04:13:12.878Z",
+    "ethUsd": 2497.76,
+    "updated": "2026-09-07T04:24:07.321Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2712,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 0,
+    "volume24hUsd": 4165,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5370
+      "mcapUsd": 5360
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -473,6 +473,17 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
+    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
+      "name": "Tap and Hold",
+      "symbol": "TAPANDHOLD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3350
+    },
     "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
       "name": "Ponzi Coin",
       "symbol": "PONZICOIN",
@@ -526,7 +537,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
       "mode": "rwa",
       "burnedPct": 0,
-      "mcapUsd": 3350
+      "mcapUsd": 0
     }
   }
 }
