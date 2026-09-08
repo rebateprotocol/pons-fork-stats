@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-08T22:13:44.112Z",
+  "updated": "2026-09-08T22:22:39.500Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "388093637493359277",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2482.69,
-    "updated": "2026-09-08T22:13:44.111Z",
+    "ethUsd": 2484.1,
+    "updated": "2026-09-08T22:22:39.500Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 3550
+      "mcapUsd": 3560
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -208,6 +208,17 @@
       "mode": "agentic",
       "burnedPct": 0.84,
       "mcapUsd": 3370
+    },
+    "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
+      "name": "roots",
+      "symbol": "ROOTS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
+      "mode": "agentic",
+      "burnedPct": 3.4,
+      "mcapUsd": 5340
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -372,7 +383,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
-      "mcapUsd": 3330
+      "mcapUsd": 3340
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
       "name": "kiwi cat",
