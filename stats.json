@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-08T16:52:17.911Z",
+  "updated": "2026-09-08T17:03:24.118Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "388093637493359277",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2496.86,
-    "updated": "2026-09-08T16:52:17.910Z",
+    "ethUsd": 2496.33,
+    "updated": "2026-09-08T17:03:24.117Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -286,17 +286,6 @@
       "burnedPct": 0,
       "mcapUsd": 3350
     },
-    "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
-      "name": "Punch Birthday",
-      "symbol": "26JULY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3350
-    },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
       "name": "Pixelated Pepe Ponder",
       "symbol": "PPP",
@@ -403,6 +392,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreif6vce6hu5yvl7okvcpnkv5z3hxaldcdixrusp63obdcupwxp5oru",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3350
+    },
+    "0xcca7680ad911005d4a9969960b14da054c399cf7": {
+      "name": "The Nietzschean Elephant",
+      "symbol": "HERCULES",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3350
