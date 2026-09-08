@@ -1,25 +1,25 @@
 {
-  "updated": "2026-09-08T03:53:20.091Z",
+  "updated": "2026-09-08T04:02:16.406Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
-    "cashbackDistributedWei": "387601118319157104",
+    "cashbackDistributedWei": "388093637493359277",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2484.18,
-    "updated": "2026-09-08T03:53:20.090Z",
+    "ethUsd": 2484.71,
+    "updated": "2026-09-08T04:02:16.405Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.2710717309103692",
+    "feesClaimedEth": "1.2716189744372604",
     "buybackBurnEth": "0.6700513767803206",
-    "paidHoldersEth": "0.3876011183191571",
+    "paidHoldersEth": "0.3880936374933593",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "12797468.110301187",
-    "forkSupplyPct": 1.2797,
+    "forkInTreasury": "12807887.611957623",
+    "forkSupplyPct": 1.2807,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
     "volume24hUsd": 585,
@@ -116,7 +116,7 @@
       "mcapUsd": 3340
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "126282213119773703",
+      "distributedWei": "126774732293975876",
       "name": "TROLL",
       "symbol": "TROLL",
       "decimals": 18,
@@ -124,7 +124,7 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
-      "burnedPct": 2.38,
+      "burnedPct": 2.4,
       "mcapUsd": 12900
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3890
+      "mcapUsd": 3900
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -394,7 +394,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3330
+      "mcapUsd": 3340
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
       "name": "GigaGrok",
