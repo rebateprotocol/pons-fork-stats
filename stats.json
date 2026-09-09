@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-09T22:32:32.232Z",
+  "updated": "2026-09-09T22:53:05.269Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "388569316485171896",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2454.45,
-    "updated": "2026-09-09T22:32:32.231Z",
+    "ethUsd": 2453.18,
+    "updated": "2026-09-09T22:53:05.268Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -438,17 +438,6 @@
       "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3300
-    },
-    "0xd9e9eb855295a281df65c567bdaed369f673210d": {
-      "name": "Built Different Final Boss",
-      "symbol": "DARRIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
-      "mode": "agentic",
-      "burnedPct": 0.1,
       "mcapUsd": 3300
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
