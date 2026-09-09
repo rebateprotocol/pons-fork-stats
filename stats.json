@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-09T04:52:41.595Z",
+  "updated": "2026-09-09T05:02:36.537Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "388093637493359277",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2506.69,
-    "updated": "2026-09-09T04:52:41.594Z",
+    "ethUsd": 2509.02,
+    "updated": "2026-09-09T05:02:36.536Z",
     "tokens": {
-      "total": 38,
-      "agentic": 23,
+      "total": 39,
+      "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2807,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 468,
+    "volume24hUsd": 469,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3510
+      "mcapUsd": 3520
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.75,
-      "mcapUsd": 5450
+      "mcapUsd": 5460
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -293,17 +293,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3370
-    },
-    "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
-      "name": "Pixelated Pepe Ponder",
-      "symbol": "PPP",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3370
@@ -449,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3370
+      "mcapUsd": 3380
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
@@ -513,6 +502,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 3370
+    },
+    "0x56301b39565a7cb990d9264c137ccdb08bd27491": {
+      "name": "Straight Perpetual Yields",
+      "symbol": "SPY",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
       "mode": "rwa",
       "burnedPct": 0,
       "mcapUsd": 3370
