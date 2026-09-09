@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-09T23:22:38.279Z",
+  "updated": "2026-09-09T23:32:41.277Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "388569316485171896",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2460.9,
-    "updated": "2026-09-09T23:22:38.278Z",
+    "ethUsd": 0,
+    "updated": "2026-09-09T23:32:41.276Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2818,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 889,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -480,6 +480,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3300
+    },
+    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
+      "name": "Ponzi Coin",
+      "symbol": "PONZICOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3300
