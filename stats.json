@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-10T00:03:11.655Z",
+  "updated": "2026-09-10T00:41:46.465Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "388569316485171896",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2467.01,
-    "updated": "2026-09-10T00:03:11.654Z",
+    "ethUsd": 2467.91,
+    "updated": "2026-09-10T00:41:46.464Z",
     "tokens": {
-      "total": 39,
+      "total": 38,
       "agentic": 24,
-      "cashback": 12,
+      "cashback": 11,
       "charity": 3
     },
     "feesClaimedEth": "1.2721475066503856",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.36,
-      "mcapUsd": 8100
+      "mcapUsd": 8110
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -251,7 +251,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
-      "mcapUsd": 3310
+      "mcapUsd": 3320
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
       "name": "Valueless Coin",
@@ -262,7 +262,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3310
+      "mcapUsd": 3320
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
       "name": "ameritard",
@@ -306,7 +306,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3310
+      "mcapUsd": 3320
     },
     "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
       "name": "Strawberina",
