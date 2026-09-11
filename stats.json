@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-11T16:53:56.874Z",
+  "updated": "2026-09-11T17:05:33.739Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
-    "cashbackDistributedWei": "390677526504333387",
+    "cashbackDistributedWei": "390847262004333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2578.13,
-    "updated": "2026-09-11T16:53:56.873Z",
+    "ethUsd": 2577.48,
+    "updated": "2026-09-11T17:05:33.738Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -92,7 +92,7 @@
       "mcapUsd": 3850
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "137455242852182658",
+      "distributedWei": "137624978352182658",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -100,8 +100,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 4.39,
-      "mcapUsd": 7540
+      "burnedPct": 4.42,
+      "mcapUsd": 7530
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
