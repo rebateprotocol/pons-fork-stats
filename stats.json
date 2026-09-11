@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-11T02:21:37.535Z",
+  "updated": "2026-09-11T02:41:30.373Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
-    "cashbackDistributedWei": "390178364004333387",
+    "cashbackDistributedWei": "390677526504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2449.93,
-    "updated": "2026-09-11T02:21:37.534Z",
+    "ethUsd": 0,
+    "updated": "2026-09-11T02:41:30.372Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.2739353372272317",
+    "feesClaimedEth": "1.2744899622272317",
     "buybackBurnEth": "0.6700513767803206",
-    "paidHoldersEth": "0.39017836400433337",
+    "paidHoldersEth": "0.3906775265043334",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "12853561.342097053",
-    "forkSupplyPct": 1.2853,
+    "forkInTreasury": "12864559.263511866",
+    "forkSupplyPct": 1.2864,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 549,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 3510
+      "mcapUsd": 3500
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -92,7 +92,7 @@
       "mcapUsd": 3660
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "136956080352182658",
+      "distributedWei": "137455242852182658",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -100,8 +100,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 4.36,
-      "mcapUsd": 7570
+      "burnedPct": 4.39,
+      "mcapUsd": 7960
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3360
+      "mcapUsd": 3350
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -449,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3300
+      "mcapUsd": 3290
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
