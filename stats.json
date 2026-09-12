@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-12T22:16:39.149Z",
+  "updated": "2026-09-12T22:26:26.096Z",
   "totals": {
     "agenticBuybackWei": "670051376780320548",
     "cashbackDistributedWei": "390847262004333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2522.84,
-    "updated": "2026-09-12T22:16:39.148Z",
+    "ethUsd": 2524.07,
+    "updated": "2026-09-12T22:26:26.095Z",
     "tokens": {
-      "total": 19,
-      "agentic": 15,
-      "cashback": 3,
-      "charity": 1
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
+      "charity": 3
     },
     "feesClaimedEth": "1.2746785572272317",
     "buybackBurnEth": "0.6700513767803206",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2868,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 257,
+    "volume24hUsd": 268,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3960
+      "mcapUsd": 3950
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.4,
-      "mcapUsd": 5380
+      "mcapUsd": 5370
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
