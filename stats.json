@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-15T09:46:04.475Z",
+  "updated": "2026-09-15T10:01:22.195Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2474.63,
-    "updated": "2026-09-15T09:46:04.474Z",
+    "ethUsd": 2477.56,
+    "updated": "2026-09-15T10:01:22.194Z",
     "tokens": {
-      "total": 38,
+      "total": 39,
       "agentic": 24,
-      "cashback": 11,
+      "cashback": 12,
       "charity": 3
     },
     "feesClaimedEth": "1.2754683554151451",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2883,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 16,
+    "volume24hUsd": 425,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -251,7 +251,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
-      "mcapUsd": 3320
+      "mcapUsd": 3330
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
       "name": "Valueless Coin",
@@ -306,7 +306,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3320
+      "mcapUsd": 3330
     },
     "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
       "name": "Strawberina",
@@ -359,6 +359,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeifunb4jwyestgelovlf5uwahi7mxm7mqlwc3ef376bbth4ivoouuq",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3320
+    },
+    "0xdc3ac07dc7586b9971fc858c90d48334e91f9bd2": {
+      "name": "Diet Coke",
+      "symbol": "DIETCOKE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreidahl6yqzipjwzzp22hwv4lcoj4wuenyagzkgxinrllqo3hluirdu",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3320
@@ -458,6 +469,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3320
+    },
+    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
+      "name": "Tap and Hold",
+      "symbol": "TAPANDHOLD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3320
