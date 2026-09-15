@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-15T13:32:28.988Z",
+  "updated": "2026-09-15T13:43:27.343Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2478.5,
-    "updated": "2026-09-15T13:32:28.987Z",
+    "ethUsd": 2471.61,
+    "updated": "2026-09-15T13:43:27.342Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2883,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 425,
+    "volume24hUsd": 424,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3890
+      "mcapUsd": 3880
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.75,
-      "mcapUsd": 5310
+      "mcapUsd": 5300
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -524,17 +524,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3330
-    },
-    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
-      "name": "GME BANK",
-      "symbol": "GMEBANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
       "mode": "rwa",
       "burnedPct": 0,
       "mcapUsd": 3330
