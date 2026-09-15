@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-15T09:30:17.266Z",
+  "updated": "2026-09-15T09:31:38.912Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2473.23,
-    "updated": "2026-09-15T09:30:17.265Z",
+    "ethUsd": 2473.6,
+    "updated": "2026-09-15T09:31:38.911Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2883,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 424,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -80,16 +80,7 @@
       "mcapUsd": 3540
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "68065838050815887",
-      "name": "Zeit Gaist",
-      "symbol": "ORACLE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xcEB413A17EAA13fDD76a4410aC5a22cdcdFBDaF4",
-      "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
-      "mode": "cashback",
-      "burnedPct": 1.07,
-      "mcapUsd": 3700
+      "distributedWei": "68065838050815887"
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "138330690852182658",
@@ -341,17 +332,6 @@
       "burnedPct": 0,
       "mcapUsd": 3320
     },
-    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
-      "name": "House Cat",
-      "symbol": "HOUSECAT",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3320
-    },
     "0xe483592428a4ec9ea2ef2211cd592b69a3f541c1": {
       "name": "CateCoin",
       "symbol": "CATE",
@@ -394,6 +374,17 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
+      "mcapUsd": 3320
+    },
+    "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
+      "name": "GigaGrok",
+      "symbol": "GIGAGROK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreif6vce6hu5yvl7okvcpnkv5z3hxaldcdixrusp63obdcupwxp5oru",
+      "mode": "agentic",
+      "burnedPct": 0,
       "mcapUsd": 3320
     },
     "0xcca7680ad911005d4a9969960b14da054c399cf7": {
