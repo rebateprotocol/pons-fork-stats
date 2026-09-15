@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-15T07:19:23.641Z",
+  "updated": "2026-09-15T07:30:44.112Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2480.89,
-    "updated": "2026-09-15T07:19:23.638Z",
+    "ethUsd": 2481.59,
+    "updated": "2026-09-15T07:30:44.108Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2883,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 409,
+    "volume24hUsd": 16,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.42,
-      "mcapUsd": 7740
+      "mcapUsd": 7730
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3480
+      "mcapUsd": 3470
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -229,7 +229,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3340
+      "mcapUsd": 3330
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
@@ -403,6 +403,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreif6vce6hu5yvl7okvcpnkv5z3hxaldcdixrusp63obdcupwxp5oru",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3330
+    },
+    "0xcca7680ad911005d4a9969960b14da054c399cf7": {
+      "name": "The Nietzschean Elephant",
+      "symbol": "HERCULES",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3330
