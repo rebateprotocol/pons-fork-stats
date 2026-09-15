@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-15T10:39:01.749Z",
+  "updated": "2026-09-15T10:41:31.018Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2475.15,
-    "updated": "2026-09-15T10:39:01.748Z",
+    "ethUsd": 2474.44,
+    "updated": "2026-09-15T10:41:31.017Z",
     "tokens": {
-      "total": 38,
-      "agentic": 23,
+      "total": 39,
+      "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
@@ -341,6 +341,17 @@
       "burnedPct": 0,
       "mcapUsd": 3320
     },
+    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
+      "name": "House Cat",
+      "symbol": "HOUSECAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3320
+    },
     "0xe483592428a4ec9ea2ef2211cd592b69a3f541c1": {
       "name": "CateCoin",
       "symbol": "CATE",
@@ -348,17 +359,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeifunb4jwyestgelovlf5uwahi7mxm7mqlwc3ef376bbth4ivoouuq",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3320
-    },
-    "0xdc3ac07dc7586b9971fc858c90d48334e91f9bd2": {
-      "name": "Diet Coke",
-      "symbol": "DIETCOKE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreidahl6yqzipjwzzp22hwv4lcoj4wuenyagzkgxinrllqo3hluirdu",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3320
@@ -405,7 +405,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3320
+      "mcapUsd": 0
     },
     "0xae5f1969410555a381c39d772e969aa049e0d627": {
       "name": "Wake Up",
@@ -513,17 +513,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3320
-    },
-    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
-      "name": "GME BANK",
-      "symbol": "GMEBANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
       "mode": "rwa",
       "burnedPct": 0,
       "mcapUsd": 3320
