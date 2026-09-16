@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-16T10:51:38.047Z",
+  "updated": "2026-09-16T22:06:08.549Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2404.2,
-    "updated": "2026-09-16T10:51:38.046Z",
+    "ethUsd": 2404.45,
+    "updated": "2026-09-16T22:06:08.549Z",
     "tokens": {
-      "total": 39,
-      "agentic": 24,
-      "cashback": 12,
+      "total": 35,
+      "agentic": 22,
+      "cashback": 10,
       "charity": 3
     },
     "feesClaimedEth": "1.2754683554151451",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2883,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 508,
+    "volume24hUsd": 233,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.42,
-      "mcapUsd": 6580
+      "mcapUsd": 6240
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -416,7 +416,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3230
+      "mcapUsd": 0
     },
     "0xae5f1969410555a381c39d772e969aa049e0d627": {
       "name": "Wake Up",
