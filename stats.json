@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-16T02:01:12.349Z",
+  "updated": "2026-09-16T02:14:50.920Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391552974504333387",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2389.43,
-    "updated": "2026-09-16T02:01:12.348Z",
+    "ethUsd": 2391.7,
+    "updated": "2026-09-16T02:14:50.919Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.42,
-      "mcapUsd": 6840
+      "mcapUsd": 6850
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3270
+      "mcapUsd": 3280
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -229,6 +229,17 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
+      "mcapUsd": 3210
+    },
+    "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
+      "name": "BUYBACK COIN",
+      "symbol": "BUYBACK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiddfufyduxicaw24aq6tpaxt7uawtnyw3lijfrm44muq4p3szqgxm",
+      "mode": "agentic",
+      "burnedPct": 0.01,
       "mcapUsd": 3210
     },
     "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
