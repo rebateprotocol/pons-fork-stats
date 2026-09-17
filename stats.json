@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-17T06:01:24.807Z",
+  "updated": "2026-09-17T06:31:26.974Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391759239326303782",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2434.9,
-    "updated": "2026-09-17T06:01:24.806Z",
+    "ethUsd": 2434.47,
+    "updated": "2026-09-17T06:31:26.973Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -158,16 +158,7 @@
           "ethWei": "917345638163599",
           "tok": "2237467688534107151579698"
         }
-      },
-      "name": "Charity test",
-      "symbol": "TEST3",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 3340
+      }
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
