@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-17T20:14:24.467Z",
+  "updated": "2026-09-17T20:24:47.289Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "391759239326303782",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2450.81,
-    "updated": "2026-09-17T20:14:24.466Z",
+    "ethUsd": 2452.15,
+    "updated": "2026-09-17T20:24:47.289Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2888,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 75,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,10 +65,19 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3330
+      "mcapUsd": 3340
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
-      "distributedWei": "49442400234343193"
+      "distributedWei": "49442400234343193",
+      "name": "cashback cat",
+      "symbol": "CBCAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x420dc8840d4b05F4Ad21e92d50D63752B64102f2",
+      "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
+      "mode": "cashback",
+      "burnedPct": 2.99,
+      "mcapUsd": 3510
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -92,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.47,
-      "mcapUsd": 6560
+      "mcapUsd": 6570
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -128,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3430
+      "mcapUsd": 3440
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -178,17 +187,6 @@
       "burnedPct": 0,
       "mcapUsd": 3840
     },
-    "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
-      "name": "PonsFork",
-      "symbol": "FORK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "agentic",
-      "burnedPct": 12.75,
-      "mcapUsd": 5250
-    },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
       "symbol": "PONSNATION",
@@ -220,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3290
+      "mcapUsd": 3300
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
