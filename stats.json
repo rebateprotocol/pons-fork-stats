@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-19T11:51:27.150Z",
+  "updated": "2026-09-19T12:01:28.516Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393109171826303782",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2638.4,
-    "updated": "2026-09-19T11:51:27.149Z",
+    "ethUsd": 2638.74,
+    "updated": "2026-09-19T12:01:28.515Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.2918,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 191,
+    "volume24hUsd": 192,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -128,7 +128,16 @@
       "mcapUsd": 11200
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "4636133553854282"
+      "distributedWei": "4636133553854282",
+      "name": "normie chillhouse",
+      "symbol": "NORMIE CHILLHOUSE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
+      "mode": "cashback",
+      "burnedPct": 0.36,
+      "mcapUsd": 3700
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -158,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3610
+      "mcapUsd": 3620
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -198,7 +207,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibg5bco4ltcxeum7a3xtgihptpuvnitelhxuhlnvx5ngncx5m4x7e",
       "mode": "agentic",
       "burnedPct": 0.84,
-      "mcapUsd": 3570
+      "mcapUsd": 3580
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
       "name": "roots",
