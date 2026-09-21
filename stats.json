@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-21T08:15:02.284Z",
+  "updated": "2026-09-21T08:21:37.420Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393256186826303782",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2667.88,
-    "updated": "2026-09-21T08:15:02.283Z",
+    "ethUsd": 2668.34,
+    "updated": "2026-09-21T08:21:37.419Z",
     "tokens": {
-      "total": 18,
-      "agentic": 8,
-      "cashback": 7,
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
       "charity": 3
     },
     "feesClaimedEth": "1.2773608135506678",
     "buybackBurnEth": "0.6700564826494426",
     "paidHoldersEth": "0.39325618682630376",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "0",
-    "forkSupplyPct": 0,
-    "forkBurned": "0",
-    "forkBurnedPct": 0,
-    "volume24hUsd": 0,
+    "forkInTreasury": "12921753.70064718",
+    "forkSupplyPct": 1.2921,
+    "forkBurned": "127518984.27639858",
+    "forkBurnedPct": 12.7518,
+    "volume24hUsd": 4,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -207,7 +207,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibg5bco4ltcxeum7a3xtgihptpuvnitelhxuhlnvx5ngncx5m4x7e",
       "mode": "agentic",
       "burnedPct": 0.84,
-      "mcapUsd": 3610
+      "mcapUsd": 3620
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
       "name": "roots",
