@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-23T17:52:09.994Z",
+  "updated": "2026-09-23T18:11:45.343Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393256186826303782",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2667.75,
-    "updated": "2026-09-23T17:52:09.993Z",
+    "ethUsd": 2665.6,
+    "updated": "2026-09-23T18:11:45.342Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -89,7 +89,7 @@
       "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
       "mode": "cashback",
       "burnedPct": 1.07,
-      "mcapUsd": 3990
+      "mcapUsd": 3980
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "139886888174153053",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.47,
-      "mcapUsd": 6350
+      "mcapUsd": 6340
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3660
+      "mcapUsd": 3650
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -449,17 +449,6 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3590
-    },
-    "0xd9262dba32426468005a2693e13f6a421cd39302": {
-      "name": "Hold On Dividends Loading",
-      "symbol": "HODL",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
-      "mode": "cashback",
-      "burnedPct": 0,
       "mcapUsd": 3580
     },
     "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
