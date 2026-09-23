@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-23T22:21:37.404Z",
+  "updated": "2026-09-23T22:31:30.551Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393256186826303782",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2689.68,
-    "updated": "2026-09-23T22:21:37.403Z",
+    "ethUsd": 2687.79,
+    "updated": "2026-09-23T22:31:30.550Z",
     "tokens": {
-      "total": 38,
-      "agentic": 23,
+      "total": 39,
+      "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.47,
-      "mcapUsd": 6400
+      "mcapUsd": 6390
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3690
+      "mcapUsd": 3680
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 4220
+      "mcapUsd": 4210
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.75,
-      "mcapUsd": 5760
+      "mcapUsd": 5750
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.46,
-      "mcapUsd": 4490
+      "mcapUsd": 4480
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -449,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3620
+      "mcapUsd": 3610
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
