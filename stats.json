@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-03T17:25:10.123Z",
+  "updated": "2026-10-03T17:30:40.505Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393922148473746704",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2685.35,
-    "updated": "2026-10-03T17:25:10.122Z",
+    "ethUsd": 2683.72,
+    "updated": "2026-10-03T17:30:40.504Z",
     "tokens": {
-      "total": 37,
-      "agentic": 23,
-      "cashback": 11,
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
       "charity": 3
     },
     "feesClaimedEth": "1.2781007709367154",
@@ -113,7 +113,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 3610
+      "mcapUsd": 3600
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "129016232990475808",
@@ -273,7 +273,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3620
+      "mcapUsd": 3610
     },
     "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
       "name": "Boring Coin",
