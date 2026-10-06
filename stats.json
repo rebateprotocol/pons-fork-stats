@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-06T16:50:27.237Z",
+  "updated": "2026-10-06T18:20:43.120Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393922148473746704",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2699.14,
-    "updated": "2026-10-06T16:50:27.236Z",
+    "ethUsd": 2699.03,
+    "updated": "2026-10-06T18:20:43.119Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.2781007709367154",
+    "feesClaimedEth": "1.2783045283313337",
     "buybackBurnEth": "0.6700564826494426",
     "paidHoldersEth": "0.3939221484737467",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "12936531.643716084",
-    "forkSupplyPct": 1.2936,
+    "forkInTreasury": "12940600.848915556",
+    "forkSupplyPct": 1.294,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
     "volume24hUsd": 0,
@@ -53,7 +53,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.16,
-      "mcapUsd": 3640
+      "mcapUsd": 3630
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
@@ -88,8 +88,8 @@
       "deployer": "0xcEB413A17EAA13fDD76a4410aC5a22cdcdFBDaF4",
       "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
       "mode": "cashback",
-      "burnedPct": 1.07,
-      "mcapUsd": 4030
+      "burnedPct": 1.09,
+      "mcapUsd": 4180
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "140067411644257534",
