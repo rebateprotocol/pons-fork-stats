@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:13:23.404Z",
+  "updated": "2026-10-09T14:20:16.365Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393922148473746704",
@@ -44,7 +44,6 @@
   },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
-      "distributedWei": "1029105000000000",
       "name": "cashback test",
       "symbol": "TEST",
       "decimals": 18,
@@ -53,7 +52,8 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.16,
-      "mcapUsd": 3350
+      "mcapUsd": 3350,
+      "distributedWei": "1029105000000000"
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000"
@@ -71,7 +71,6 @@
       "distributedWei": "311850000000000"
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "129016232990475808",
       "name": "TROLL",
       "symbol": "TROLL",
       "decimals": 18,
@@ -80,10 +79,10 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 2.62,
-      "mcapUsd": 5420
+      "mcapUsd": 5420,
+      "distributedWei": "129016232990475808"
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "4636133553854282",
       "name": "normie chillhouse",
       "symbol": "NORMIE CHILLHOUSE",
       "decimals": 18,
@@ -92,9 +91,19 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.36,
-      "mcapUsd": 3480
+      "mcapUsd": 3480,
+      "distributedWei": "4636133553854282"
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
+      "name": "Charity test",
+      "symbol": "TEST3",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 3410,
       "charityDonatedWei": "3669382552654390",
       "charityOrgs": {
         "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
@@ -113,25 +122,9 @@
           "ethWei": "917345638163599",
           "tok": "2237467688534107151579698"
         }
-      },
-      "name": "Charity test",
-      "symbol": "TEST3",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 3410
+      }
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
-      "charityDonatedWei": "55020845047913817",
-      "charityOrgs": {
-        "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
-          "ethWei": "55020845047913817",
-          "tok": "64593942354923872958063175"
-        }
-      },
       "name": "St Jude Childrens Fund",
       "symbol": "STJUDE",
       "decimals": 18,
@@ -140,7 +133,14 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3900
+      "mcapUsd": 3900,
+      "charityDonatedWei": "55020845047913817",
+      "charityOrgs": {
+        "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
+          "ethWei": "55020845047913817",
+          "tok": "64593942354923872958063175"
+        }
+      }
     },
     "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
       "name": "Strawberina",
