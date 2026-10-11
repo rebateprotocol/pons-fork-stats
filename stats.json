@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-11T15:02:20.037Z",
+  "updated": "2026-10-11T15:10:29.104Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393922148473746704",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2503.01,
-    "updated": "2026-10-11T12:40:24.116Z",
+    "ethUsd": 2504.63,
+    "updated": "2026-10-11T15:10:29.103Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -77,22 +77,67 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 3590
+      "mcapUsd": 3580
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "68065838050815887"
+      "distributedWei": "68065838050815887",
+      "name": "Zeit Gaist",
+      "symbol": "ORACLE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xcEB413A17EAA13fDD76a4410aC5a22cdcdFBDaF4",
+      "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
+      "mode": "cashback",
+      "burnedPct": 1.09,
+      "mcapUsd": 3810
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "140067411644257534"
+      "distributedWei": "140067411644257534",
+      "name": "Me Gusta",
+      "symbol": "MEGUSTA",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
+      "mode": "cashback",
+      "burnedPct": 4.54,
+      "mcapUsd": 5430
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000"
+      "distributedWei": "311850000000000",
+      "name": "PonSuperCycle",
+      "symbol": "PSC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3360
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "129016232990475808"
+      "distributedWei": "129016232990475808",
+      "name": "TROLL",
+      "symbol": "TROLL",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
+      "mode": "cashback",
+      "burnedPct": 2.62,
+      "mcapUsd": 5460
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "4636133553854282"
+      "distributedWei": "4636133553854282",
+      "name": "normie chillhouse",
+      "symbol": "NORMIE CHILLHOUSE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
+      "mode": "cashback",
+      "burnedPct": 0.36,
+      "mcapUsd": 3510
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -113,7 +158,16 @@
           "ethWei": "917345638163599",
           "tok": "2237467688534107151579698"
         }
-      }
+      },
+      "name": "Charity test",
+      "symbol": "TEST3",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 3430
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -122,7 +176,16 @@
           "ethWei": "55020845047913817",
           "tok": "64593942354923872958063175"
         }
-      }
+      },
+      "name": "St Jude Childrens Fund",
+      "symbol": "STJUDE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC862AF7382693eccA15095a8aC9eb246A91ab806",
+      "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 3930
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -188,7 +251,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
       "name": "Valueless Coin",
@@ -387,6 +450,94 @@
       "mode": "agentic",
       "burnedPct": 0.1,
       "mcapUsd": 3370
+    },
+    "0xd9262dba32426468005a2693e13f6a421cd39302": {
+      "name": "Hold On Dividends Loading",
+      "symbol": "HODL",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
+      "name": "one ecosystem to rule them all",
+      "symbol": "1ECOSYSTEM",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
+      "name": "Tap and Hold",
+      "symbol": "TAPANDHOLD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
+      "name": "Ponzi Coin",
+      "symbol": "PONZICOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
+      "name": "Millions Coded",
+      "symbol": "ADHD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
+      "name": "Tesla Bank",
+      "symbol": "TSLABANK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0x56301b39565a7cb990d9264c137ccdb08bd27491": {
+      "name": "Straight Perpetual Yields",
+      "symbol": "SPY",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
+      "name": "GME BANK",
+      "symbol": "GMEBANK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 3360
     }
   }
 }
