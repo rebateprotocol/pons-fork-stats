@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-19T20:21:36.579Z",
+  "updated": "2026-10-19T20:30:48.236Z",
   "totals": {
     "agenticBuybackWei": "670056482649442632",
     "cashbackDistributedWei": "393922148473746704",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2399.82,
-    "updated": "2026-10-19T20:21:36.575Z",
+    "ethUsd": 0,
+    "updated": "2026-10-19T20:30:48.235Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -274,6 +274,28 @@
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3230
+    },
+    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
+      "name": "Boring Coin",
+      "symbol": "BORINGCOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3220
+    },
+    "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
+      "name": "Punch Birthday",
+      "symbol": "26JULY",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3220
     },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
       "name": "Pixelated Pepe Ponder",
